@@ -19,6 +19,6 @@ This project will explain how we can use volley for network call in android.
    limitations under the License.
 ```
 
-### Contributing to Android MVP Architecture
+### Contributing to Android MVVM Architecture With Volley
 All pull requests are welcome, make sure to follow the [contribution guidelines](CONTRIBUTING.md)
 when you submit pull request.
