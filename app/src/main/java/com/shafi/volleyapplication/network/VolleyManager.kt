@@ -11,7 +11,7 @@ import javax.net.ssl.TrustManager
 import javax.net.ssl.X509TrustManager
 
 class VolleyManager private constructor(context: Context) {
-    private val requestQueue: RequestQueue
+    val requestQueue: RequestQueue
     private val sslSocketFactory: SSLSocketFactory
 
     companion object {
